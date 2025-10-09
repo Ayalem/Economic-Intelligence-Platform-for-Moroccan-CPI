@@ -8,7 +8,7 @@ It analyzes and forecasts the **Consumer Price Index (CPI)** in Morocco using st
 The goal is to transform economic data into clear, actionable insights for **decision-making** and **inflation monitoring**.
 ### Dashboard Preview
 
-![Dashboard Preview](Dashboard/assets/Dashboard.png)  
+![Dashboard Preview](Dashboard/assets/forecast.png)  
 
 ---
 
