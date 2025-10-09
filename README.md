@@ -35,7 +35,7 @@ The goal is to transform economic data into clear, actionable insights for **dec
    * Model comparison: ARIMA, Holt-Winters, Prophet, LSTM.
 4. **Clustering & Visualization**
 
-   * Applying KMeans, SVM, XGBoost.
+   * Applying KMeans
    * Visualizing with heatmaps and correlation networks.
 5. **Deployment & Interface**
 
