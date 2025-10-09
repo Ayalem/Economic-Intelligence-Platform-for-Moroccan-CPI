@@ -71,14 +71,13 @@ The goal is to transform economic data into clear, actionable insights for **dec
 
 ```bash
 git clone https://github.com/aya-lemzouri/Economic-Intelligence-Platform-for-Moroccan-CPI.git
-cd ecovision
+cd Dashboard
 ```
 
 ### 2️⃣ Run the backend
 
 ```bash
 cd backend
-pip install -r requirements.txt
 python app.py
 ```
 
