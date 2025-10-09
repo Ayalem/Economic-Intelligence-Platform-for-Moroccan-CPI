@@ -6,6 +6,9 @@
 *this project is  an interactive economic intelligence platform .
 It analyzes and forecasts the **Consumer Price Index (CPI)** in Morocco using statistical and deep learning models (ARIMA, Holt-Winters, Prophet, LSTM).
 The goal is to transform economic data into clear, actionable insights for **decision-making** and **inflation monitoring**.
+### Dashboard Preview
+
+![Dashboard Preview](assets/dashboard.png)  
 
 ---
 
