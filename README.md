@@ -1,7 +1,7 @@
 
-# 🧠– Economic Intelligence Platform for Moroccan CPI**
+#  Economic Intelligence Platform for Moroccan CPI**
 
-## 📘 **Project Description**
+##  **Project Description**
 
 *this project is  an interactive economic intelligence platform .
 It analyzes and forecasts the **Consumer Price Index (CPI)** in Morocco using statistical and deep learning models (ARIMA, Holt-Winters, Prophet, LSTM).
@@ -12,7 +12,7 @@ The goal is to transform economic data into clear, actionable insights for **dec
 
 ---
 
-## 🧩 **Project Objectives**
+##  **Project Objectives**
 
 * Collect and structure CPI data according to **COICOP classification**.
 * Build a **short- and medium-term forecasting pipeline** using hybrid models.
@@ -21,7 +21,7 @@ The goal is to transform economic data into clear, actionable insights for **dec
 
 ---
 
-## 🧠 **Methodology**
+##  **Methodology**
 
 1. **Data Collection & Preparation**
 
@@ -44,16 +44,16 @@ The goal is to transform economic data into clear, actionable insights for **dec
 
 ---
 
-## 📊 **Main Features**
+##  **Main Features**
 
-* 📈 CPI forecast (short-term).
-* 🔍 Correlation analysis between COICOP categories.
-* 🧮 Clustering
-* 💡 Interactive dashboards with dynamic visualizations.
+*  CPI forecast (short-term).
+* Correlation analysis between COICOP categories.
+*  Clustering
+*  Interactive dashboards with dynamic visualizations.
 
 ---
 
-## 🧰 **Technologies Used**
+##  **Technologies Used**
 
 | Domain           | Technologies                                   |
 | ---------------- | ---------------------------------------------- |
@@ -65,23 +65,23 @@ The goal is to transform economic data into clear, actionable insights for **dec
 
 ---
 
-## 🚀 **Installation and Running**
+##  **Installation and Running**
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 
 ```bash
 git clone https://github.com/aya-lemzouri/Economic-Intelligence-Platform-for-Moroccan-CPI.git
 cd Dashboard
 ```
 
-### 2️⃣ Run the backend
+### 2️ Run the backend
 
 ```bash
 cd backend
 python app.py
 ```
 
-### 3️⃣ Run the frontend
+### 3️ Run the frontend
 
 ```bash
 cd ../frontend
