@@ -89,7 +89,7 @@ npm install
 npm start
 ```
 
-### 4️⃣ Access the platform
+### 4️ Access the platform
 
 👉 [http://localhost:3000](http://localhost:3000)
 
@@ -97,7 +97,7 @@ npm start
 
 ---
 
-## 👩‍💻 **Author**
+##  **Author**
 
 **Aya Lemzouri**
 
